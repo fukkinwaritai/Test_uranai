@@ -12,4 +12,4 @@ if fortune == 0:
 elif fortune == 1:
     print('セーフ！吉です')
 else:
-    print('がーん… 大凶です')
+    print('がーん… 凶です。家でおとなしくしときましょう！')
