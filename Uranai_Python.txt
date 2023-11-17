@@ -8,7 +8,7 @@ for i in range(3):
   
 fortune = random.randint(0,2)
 if fortune == 0:
-    print('おめでとうございます！大吉です')
+    print('おめでとうございます！大吉です！宝くじ買ってみてはいかがでしょうか')
 elif fortune == 1:
     print('セーフ！吉です')
 else:
